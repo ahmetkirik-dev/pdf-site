@@ -40,7 +40,7 @@ const Index = () => {
     Bu konu hakkında daha detaylı bilgi için aşağıdaki PDF dosyasını indirebilirsiniz.
   </p>
   <a 
-    href="/Turkiye_Gayrimenkul_Raporu_2013_2026 (1).pdf" 
+    href="/Turkiye_Gayrimenkul_Raporu_fixed_v4.pdf" 
     download
     className="text-blue-600 font-semibold hover:underline"
   >
