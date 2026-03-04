@@ -35,6 +35,18 @@ const Index = () => {
           </p>
         </footer>
       </div>
+      <div className="mt-16 text-center border-t pt-8">
+  <p className="text-gray-600 mb-2">
+    Bu konu hakkında daha detaylı bilgi için aşağıdaki PDF dosyasını indirebilirsiniz.
+  </p>
+  <a 
+    href="/detayli-bilgi.pdf" 
+    download
+    className="text-blue-600 font-semibold hover:underline"
+  >
+    PDF’i İndir
+  </a>
+</div>
     </div>
   );
 };
